@@ -1,0 +1,50 @@
+nav 
+{
+    background-color: dimgray;
+    height: 50px;
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+ul
+{
+    list-style: none;
+}
+
+ul li
+{
+  display: inline-block;
+  padding: 18px;  
+}
+
+header
+{
+    background-color: gray;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor
+{
+    height: 300px;
+    padding: 10px;
+    text-justify: justify;
+    background-color: rgb(244, 246, 246);
+}
+
+footer
+{
+  background-color: rgb(66, 73, 73);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 75px;
+  color:aliceblue;  
+}
+
+table, th, td {
+    border: 1px solid;
+  }
